@@ -71,7 +71,7 @@
     "compression": "1.7.4",
     "cross-env": "5.2.0",
     "css": "^2.2.4",
-    "express": "4.16.4",
+    "express": "4.17.3",
     "history": "4.9.0",
     "hoist-non-react-statics": "3.3.0",
     "htmlparser-to-html": "0.0.6",
